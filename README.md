@@ -10,5 +10,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 <li>It helps developers in faster coding, in-turn reduces development cost.</li></ul>
 <h3>Description of the project:</h3>
 <p> This is an Employee information form with Control and Navigation Buttons to view, add and edit the information from Database.<br>
-jpdb-commons.js has been imported in the project for readily using various jQuery functions.</p>
+jpdb-commons.js has been imported in the project for easy access of jpdb operations.</p>
 <h3>Screenshots</h3>
+<img src="https://github.com/devyanisingh11/JPDB-project/blob/master/employee-nav-1.jpg">
